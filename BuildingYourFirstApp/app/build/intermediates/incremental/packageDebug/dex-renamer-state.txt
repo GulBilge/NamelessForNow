@@ -1,0 +1,7 @@
+#Thu Feb 02 18:00:52 EET 2017
+base.0=D\:\\BILGE\\ANDROIDAPPS\\BuildingYourFirstApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93332d0f7ea15e0adafbe0358727f6dae9aa5c60
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\BILGE\\ANDROIDAPPS\\BuildingYourFirstApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_acc94c05d8c6b66b0918176f29cb6d73b9effe3b\\classes.dex
+base.1=D\:\\BILGE\\ANDROIDAPPS\\BuildingYourFirstApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_acc94c05d8c6b66b0918176f29cb6d73b9effe3b
+file.0=D\:\\BILGE\\ANDROIDAPPS\\BuildingYourFirstApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93332d0f7ea15e0adafbe0358727f6dae9aa5c60\\classes.dex

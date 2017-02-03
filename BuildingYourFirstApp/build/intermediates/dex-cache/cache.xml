@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bilge.Gul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_8f7567a87c8f72f92b43419648ebb8c7bd0e54bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_d057b4672b47488b5e64f47874442dd9fb8aad66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_0324ec17f87ba18d72f13da904269c5bc08a88ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_331e5ad0eddef7322de08e53fd9fa7128bc7481a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9d93df8783451792a74281d40f3df05e93a8c89">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_93332d0f7ea15e0adafbe0358727f6dae9aa5c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_890be25c626c186ee82d388c92195e9ba1647631\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_c35281eae49a041b63bd1006f7451c5bd11d586c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_49d28d65d27980717b45c73ad2ed480ed1c28912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_d5645fdc678e116806dbf0854605a716ac8be7c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ffc5a9355b1b76e27d652e33538807bcfaa1806">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_acc94c05d8c6b66b0918176f29cb6d73b9effe3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_118763233149453392bd9c81407229db75cc5817\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_116c2ef4dba6a8d18cf2e0d30e25a7a50becf75a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_56f2a1c53faf3dcad6c11a2d6cc63a585090a546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5719d69c31517667065e37ba2beb56aa51a3e1ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\BILGE\ANDROIDAPPS\BuildingYourFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_aed3b4a9e26e260566bfcf7e3de701fb1249db21\classes.dex" />
+    </item>
+
+</items>
